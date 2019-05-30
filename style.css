@@ -1,0 +1,444 @@
+@import url('https://fonts.googleapis.com/css?family=Julius+Sans+One|Libre+Baskerville|Niconne|Raleway');html {
+    -webkit-locale: "en";
+
+}
+.summary {
+    display: block;
+    padding-top: 3.25em;
+    float: left;
+    clear: left;
+    width: 66%;
+    padding: 1em 5% 1em 10%;
+    margin: 0 auto;
+    font-size: 100%;
+    color: #325050;
+    background: #fff;
+    font-family: 'Libre Baskerville', sans-serif;
+}
+
+.summary p {
+    color: #325050;
+    background: #fff;
+    font-family: 'Libre Baskerville', sans-serif;
+    margin: 0.75em 0;
+    line-height: 2;
+    box-sizing: border-box;
+    text-align: left;
+    width: 66%;
+}
+a:link {
+    color: rgb(255, 79, 152);
+    font-size: 15px;
+}
+
+/* body */
+body {
+
+    display: block;
+    color: rgb(0, 0, 0)
+  
+   
+
+}
+/* body here */
+#css-zen-garden {
+ 
+    margin: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding: 0;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    background-position-x: left;
+    background-position-y: top;
+    background-size: initial;
+    background-repeat: repeat-x;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(255, 255, 255);
+    color: #888;
+    text-align: center;
+}
+
+header {
+    background-image: url(image.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 53px;
+}
+
+.page-wrapper {
+    position: relative;
+    margin: 0 auto;
+    text-align: left;
+}
+div {
+    display: block;
+    color: black
+}
+h1{
+    font-size: 59px;
+    color: white;
+    margin: auto;
+    padding-top: inherit;
+    font-family: 'Raleway', sans-serif;
+}
+
+h2 {
+    font-family: cursive;
+    font-size: 30px;
+    color: white;
+}
+.preamble {
+    display: block;
+    float: left;
+    clear: left;
+    width: 66%;
+    padding: 1em 5% 1em 10%;
+    box-sizing: border-box;
+    color: #325050;
+    background: #fff;
+    font-family: 'Libre Baskerville', sans-serif;
+}
+h3 {
+    display: block;
+    margin: 2em 0 15px 0;
+    color: #2e484c;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 1.8em;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.preamble p {
+    color: #325050;
+    background: #fff;
+    font-family: 'Libre Baskerville', sans-serif;
+    margin: 0.75em 0;
+    line-height: 2;
+}
+
+div #zen-explanation.explanation{
+    display: block;
+    float: left;
+    clear: left;
+    width: 66%;
+    padding: 1em 5% 1em 10%;
+    box-sizing: border-box;
+    color: #325050;
+    background: #fff;
+    font-family: 'Libre Baskerville', sans-serif;
+}
+.explanation h3{
+    margin: 2em 0px 16px ;
+    color: #2e484c;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 1.8em;
+    font-weight: normal;
+    text-transform: uppercase;
+    
+}
+
+.explanation p {
+    color: #325050;
+    background: #fff;
+    font-family: 'Libre Baskerville', sans-serif;
+    margin: 0.75em 0;
+    line-height: 2;
+}
+
+div #zen-partiapation.participation {
+    padding-top: 4em;
+    width: 100%;
+    padding-left: 10%;
+    padding-right: 38%;
+    margin: 0;
+    float: left;
+    clear: left;
+    width: 66%;
+    padding: 1em 5% 1em 10%;
+}
+.supporting div {
+    float: left;
+    clear: left;
+    width: 66%;
+    padding: 1em 5% 1em 10%;
+    
+}
+div.participation{
+    background-color: rgba(230, 236, 140, 0.5);
+    box-sizing: border-box;
+}
+
+.participation p{
+    display: block;
+    color: #325050;
+    font-family: 'Libre Baskerville', sans-serif;
+    margin: 0.75em 0;
+    line-height: 2;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    box-sizing: border-box;
+}
+
+div #zen-benefits.benefits{
+    display: block;
+    float: left;
+    clear: left;
+    width: 66%;
+    padding: 1em 5% 1em 10%;
+    box-sizing: border-box;
+    color: #325050;
+    background: #fff;
+    font-family: 'Libre Baskerville', sans-serif;
+    background-color: rgba(230, 236, 140, 0.5);
+    box-sizing: border-box;
+
+}
+
+.benefits h3{
+    margin: 2em 0 0 0;
+    color: #2e484c;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 1.8em;
+    font-weight: normal;
+    text-transform: uppercase;
+    
+    
+}
+.benefits p{
+    display: block;
+    color: #325050;
+    font-family: 'Libre Baskerville', sans-serif;
+    margin: 0.75em 0;
+    line-height: 2;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    box-sizing: border-box;
+}
+
+div #zen-requirements.requirements{
+    float: none;
+    clear: both;
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+}
+div.requirements {
+    padding-top: 4em;
+}
+.requirements h3{
+    padding-top: 0;
+    margin-top: 0;
+    float: left;
+    clear: left;
+    width: 66%;
+    padding: 1em 5% 1em 10%;
+    color: #2e484c;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 1.8em;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+.requirements p {
+    display: block;
+    width: 66%;
+    box-sizing: border-box;
+    color: #325050;
+    font-family: 'Libre Baskerville', sans-serif;
+    margin: 0.75em 0;
+    line-height: 2;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    box-sizing: border-box;
+    padding: 1em 5% 1em 10%;
+}
+.requirements p:last-child {
+    background-size: 50%  cover;
+    background-color: #dfffdd;
+    padding-bottom: 3em;
+    padding-top: 3em;
+    box-shadow: inset 0 0 100px rgba(255, 255, 255, 0.3);
+    width: auto;
+    padding: 10em 12%;
+    margin: 0;
+    line-height: 2;
+    width: auto;
+    padding: 1em 12%;
+    margin: 0;
+    color: rgba(43, 42, 42, 0.4);
+    font-size: 1.3em;
+    font-style: italic;
+    text-align: center;
+}
+footer {
+    clear: both;
+    padding: 0em 10%;
+    color: #fff;
+    text-align: center;
+    display: block;
+    box-sizing: border-box;
+    background-color: #f1f1f1;
+}
+footer a::before {
+    content: "5";
+    font-size: 72px;
+    display: block;
+    position: absolute;
+    top: 3px;
+    left: 0;
+    overflow: visible;
+    font-size: 36px;
+    text-indent: 0;
+    font-family: 'verdemoderna';
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+div#design-selection.design-selection{
+    position: absolute;
+    bottom: -288px;
+    right: 0;
+    width: 485px;
+    color: #999;
+    display: block;
+    margin-bottom: 2370px;
+    background-color: rgb(253, 223, 238);
+    top: 326px;
+    right: 1px;
+}
+
+.design-selection h3{
+display: block;
+    margin: 2em 0 15px 53px;
+    color: #2e484c;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 34px;
+    font-weight: bloder;
+    text-transform: uppercase;
+}
+footer a::before {
+    display: block;
+    position: absolute;
+    top: 3px;
+    left: 0;
+    overflow: visible;
+    font-size: 36px;
+    text-indent: 0;
+    font-family: 'verdemoderna';
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+}
+.design-selection li:first-child {
+    border-top: 0;
+}
+.design-selection li:nth-child(2n+1){
+    clear: left;
+}
+.sidebar li {
+    float: none;
+    width: auto;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 29.4% 0 14.7%;
+}
+.design-selection li, .zen-resources li {
+    float: left;
+    width: 77%;
+    padding: 1.5em 0%;
+    border-top: solid 1px #d9e3dc;
+    color: #c0cac3;
+    font-style: italic;
+}
+*{
+    box-sizing: border-box;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.sidebar ul {
+    list-style: none;
+}
+.design-selection .design-name, .zen-resources a, li.viewall a {
+    display: block;
+    margin-bottom: 0.25em;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 1.2em;
+    font-style: normal;
+    text-transform: uppercase;
+}
+.sidebar a {
+    color: #607476;
+    text-decoration: none;
+}
+a:visited {
+    color: #607476;
+}
+div#design-archives.design-archives {
+
+    background-color: rgb(175, 223, 255);
+    position: absolute;
+    bottom: 1012px;
+    right: 0;
+    width: 365px;
+    color: #999;
+    display: block;
+    margin-bottom: -46px;
+    background-color: rgb(183, 247, 233);
+    top: 2219px;
+    right: 1px;
+}
+.design-archives h3{ 
+
+    display: block;
+    margin: 2em 0 15px 0px;
+    color: #2e484c;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 1.8em;
+    font-weight: normal;
+    text-transform: uppercase;
+    text-align: center;
+
+}
+.resources {
+    padding: 30px;
+    background-color: rgb(252, 217, 247);
+    position: absolute;
+    bottom: 864px;
+    right: 0;
+    width: 365px;
+    color: #999;
+    display: block;
+    margin-bottom: 50px;
+    top: 2319px;
+    right: 1px;
+    text-align: center;
+}
+.zen-resources ul {
+    position: absolute;
+    bottom: 524px;
+    right: 0;
+    width: 367px;
+    background-color: rgb(252, 231, 249);
+}
